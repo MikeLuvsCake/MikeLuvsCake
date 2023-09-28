@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MikeLuvsCake
 - 👀 I’m interested in Gyming, Gaming, Web Development.
 - 🌱 I’m currently learning Git.
-- 💞️ I’m looking to collaborate on intermediate projects.
+- 💞️ I’m looking to collaborate on beginner projects.
 - 📫 Reach out to me on instagram: @michael.goliath
 
 <!---

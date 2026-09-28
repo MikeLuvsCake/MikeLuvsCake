@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MikeLuvsCake
-- 👀 I’m interested in Gyming, Gaming, Quantitative Analysis and trading.
+- 👀 I'm an Aspiring quantitative trader | Designing and testing trading ideas with Python and AI tools
 - 🌱 I’m currently learning to backtest. 
-- 💞️ I’m looking to collaborate on beginner projects.
 - 📫 Reach out to me via e-mail: michael.goliath@live.com
 
 <!---
